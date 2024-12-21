@@ -1,3 +1,3 @@
-int i=10
-int j=20
-int k=j-i
+int a=100
+int b=200
+int c=b-a
