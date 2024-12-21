@@ -1,3 +1,3 @@
-int a=100
-int b=200
-int c=b-a
+a=100
+b=200
+c=b-a
